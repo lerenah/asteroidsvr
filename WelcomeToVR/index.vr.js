@@ -20,6 +20,14 @@ export default class WelcomeToVR extends React.Component {
         >
           Asteroids of NASA
         </Text>
+        {/* <iframe
+          width='560'
+          height='315'
+          src='https://www.youtube.com/embed/RxbP020DX2s'
+          frameborder='0'
+          allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'
+          allowfullscreen
+        /> */}
       </View>
     );
   }
